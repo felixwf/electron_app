@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Electron build artifacts
+out/
+dist/
+build/
+
+# Logs
+*.log
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm run build'
+/dist/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
